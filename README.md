@@ -122,11 +122,13 @@ Thanks to [openmmlab](https://openmmlab.com/) for providing excellent code base.
 If you find this project useful for your research, please kindly cite our paper.
 
 ```
-@article{ying2022isda,
+@inproceedings{ying2022isda,
   title={ISDA: Position-Aware Instance Segmentation with Deformable Attention},
   author={Ying, Kaining and Wang, Zhenhua and Bai, Cong and Zhou, Pengfei},
-  journal={arXiv preprint arXiv:2202.12251},
-  year={2022}
+  booktitle={ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={2619--2623},
+  year={2022},
+  organization={IEEE}
 }
 ```
 
